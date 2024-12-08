@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hji360
-- 👀 I’m interested in ... Apple
 - 🌱 I’m currently learning => Computer Science And Engineering
-- 💞️ I’m looking to collaborate on => PHP
+- 💞️ I’m looking to collaborate on => Python, ML, Deep Learning...
 
 <!---
 hji360/hji360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
